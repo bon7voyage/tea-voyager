@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "tea-voyager": "^1.1.2"
+  },
+  "name": "tea-voyager",
+  "description": "",
+  "version": "1.1.4",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bon7voyage/tea-voyager"
+  },
+  "author": "bon7voyage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bon7voyage/tea-voyager/issues"
+  },
+  "homepage": "https://github.com/bon7voyage/tea-voyager#readme"
+}
